@@ -1,0 +1,13 @@
+/Users/kevinboss/Repositories/consoles/DragonFruit/CommandLineUtils/bin/Debug/netcoreapp3.1/CommandLineUtils
+/Users/kevinboss/Repositories/consoles/DragonFruit/CommandLineUtils/bin/Debug/netcoreapp3.1/CommandLineUtils.deps.json
+/Users/kevinboss/Repositories/consoles/DragonFruit/CommandLineUtils/bin/Debug/netcoreapp3.1/CommandLineUtils.runtimeconfig.json
+/Users/kevinboss/Repositories/consoles/DragonFruit/CommandLineUtils/bin/Debug/netcoreapp3.1/CommandLineUtils.runtimeconfig.dev.json
+/Users/kevinboss/Repositories/consoles/DragonFruit/CommandLineUtils/bin/Debug/netcoreapp3.1/CommandLineUtils.dll
+/Users/kevinboss/Repositories/consoles/DragonFruit/CommandLineUtils/bin/Debug/netcoreapp3.1/CommandLineUtils.pdb
+/Users/kevinboss/Repositories/consoles/DragonFruit/CommandLineUtils/bin/Debug/netcoreapp3.1/McMaster.Extensions.CommandLineUtils.dll
+/Users/kevinboss/Repositories/consoles/DragonFruit/CommandLineUtils/obj/Debug/netcoreapp3.1/CommandLineUtils.csprojAssemblyReference.cache
+/Users/kevinboss/Repositories/consoles/DragonFruit/CommandLineUtils/obj/Debug/netcoreapp3.1/CommandLineUtils.AssemblyInfoInputs.cache
+/Users/kevinboss/Repositories/consoles/DragonFruit/CommandLineUtils/obj/Debug/netcoreapp3.1/CommandLineUtils.AssemblyInfo.cs
+/Users/kevinboss/Repositories/consoles/DragonFruit/CommandLineUtils/obj/Debug/netcoreapp3.1/CommandLineUtils.csproj.CopyComplete
+/Users/kevinboss/Repositories/consoles/DragonFruit/CommandLineUtils/obj/Debug/netcoreapp3.1/CommandLineUtils.dll
+/Users/kevinboss/Repositories/consoles/DragonFruit/CommandLineUtils/obj/Debug/netcoreapp3.1/CommandLineUtils.pdb

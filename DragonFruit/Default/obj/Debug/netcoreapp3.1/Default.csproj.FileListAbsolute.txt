@@ -1,0 +1,11 @@
+/Users/kevinboss/Repositories/consoles/DragonFruit/Default/obj/Debug/netcoreapp3.1/Default.csprojAssemblyReference.cache
+/Users/kevinboss/Repositories/consoles/DragonFruit/Default/obj/Debug/netcoreapp3.1/Default.AssemblyInfoInputs.cache
+/Users/kevinboss/Repositories/consoles/DragonFruit/Default/obj/Debug/netcoreapp3.1/Default.AssemblyInfo.cs
+/Users/kevinboss/Repositories/consoles/DragonFruit/Default/bin/Debug/netcoreapp3.1/Default
+/Users/kevinboss/Repositories/consoles/DragonFruit/Default/bin/Debug/netcoreapp3.1/Default.deps.json
+/Users/kevinboss/Repositories/consoles/DragonFruit/Default/bin/Debug/netcoreapp3.1/Default.runtimeconfig.json
+/Users/kevinboss/Repositories/consoles/DragonFruit/Default/bin/Debug/netcoreapp3.1/Default.runtimeconfig.dev.json
+/Users/kevinboss/Repositories/consoles/DragonFruit/Default/bin/Debug/netcoreapp3.1/Default.dll
+/Users/kevinboss/Repositories/consoles/DragonFruit/Default/bin/Debug/netcoreapp3.1/Default.pdb
+/Users/kevinboss/Repositories/consoles/DragonFruit/Default/obj/Debug/netcoreapp3.1/Default.dll
+/Users/kevinboss/Repositories/consoles/DragonFruit/Default/obj/Debug/netcoreapp3.1/Default.pdb

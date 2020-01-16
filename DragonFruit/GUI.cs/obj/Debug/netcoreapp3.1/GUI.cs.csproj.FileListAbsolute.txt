@@ -1,0 +1,14 @@
+/Users/kevinboss/Repositories/consoles/DragonFruit/GUI.cs/bin/Debug/netcoreapp3.1/GUI.cs
+/Users/kevinboss/Repositories/consoles/DragonFruit/GUI.cs/bin/Debug/netcoreapp3.1/GUI.cs.deps.json
+/Users/kevinboss/Repositories/consoles/DragonFruit/GUI.cs/bin/Debug/netcoreapp3.1/GUI.cs.runtimeconfig.json
+/Users/kevinboss/Repositories/consoles/DragonFruit/GUI.cs/bin/Debug/netcoreapp3.1/GUI.cs.runtimeconfig.dev.json
+/Users/kevinboss/Repositories/consoles/DragonFruit/GUI.cs/bin/Debug/netcoreapp3.1/GUI.cs.dll
+/Users/kevinboss/Repositories/consoles/DragonFruit/GUI.cs/bin/Debug/netcoreapp3.1/GUI.cs.pdb
+/Users/kevinboss/Repositories/consoles/DragonFruit/GUI.cs/bin/Debug/netcoreapp3.1/NStack.dll
+/Users/kevinboss/Repositories/consoles/DragonFruit/GUI.cs/bin/Debug/netcoreapp3.1/Terminal.Gui.dll
+/Users/kevinboss/Repositories/consoles/DragonFruit/GUI.cs/obj/Debug/netcoreapp3.1/GUI.cs.csprojAssemblyReference.cache
+/Users/kevinboss/Repositories/consoles/DragonFruit/GUI.cs/obj/Debug/netcoreapp3.1/GUI.cs.AssemblyInfoInputs.cache
+/Users/kevinboss/Repositories/consoles/DragonFruit/GUI.cs/obj/Debug/netcoreapp3.1/GUI.cs.AssemblyInfo.cs
+/Users/kevinboss/Repositories/consoles/DragonFruit/GUI.cs/obj/Debug/netcoreapp3.1/GUI.cs.csproj.CopyComplete
+/Users/kevinboss/Repositories/consoles/DragonFruit/GUI.cs/obj/Debug/netcoreapp3.1/GUI.cs.dll
+/Users/kevinboss/Repositories/consoles/DragonFruit/GUI.cs/obj/Debug/netcoreapp3.1/GUI.cs.pdb

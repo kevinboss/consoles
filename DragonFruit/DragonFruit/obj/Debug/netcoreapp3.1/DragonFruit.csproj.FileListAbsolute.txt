@@ -1,0 +1,17 @@
+/Users/kevinboss/Repositories/consoles/DragonFruit/DragonFruit/obj/Debug/netcoreapp3.1/DragonFruit.csprojAssemblyReference.cache
+/Users/kevinboss/Repositories/consoles/DragonFruit/DragonFruit/obj/Debug/netcoreapp3.1/DragonFruit.AssemblyInfoInputs.cache
+/Users/kevinboss/Repositories/consoles/DragonFruit/DragonFruit/obj/Debug/netcoreapp3.1/DragonFruit.AssemblyInfo.cs
+/Users/kevinboss/Repositories/consoles/DragonFruit/DragonFruit/bin/Debug/netcoreapp3.1/DragonFruit
+/Users/kevinboss/Repositories/consoles/DragonFruit/DragonFruit/bin/Debug/netcoreapp3.1/DragonFruit.deps.json
+/Users/kevinboss/Repositories/consoles/DragonFruit/DragonFruit/bin/Debug/netcoreapp3.1/DragonFruit.runtimeconfig.json
+/Users/kevinboss/Repositories/consoles/DragonFruit/DragonFruit/bin/Debug/netcoreapp3.1/DragonFruit.runtimeconfig.dev.json
+/Users/kevinboss/Repositories/consoles/DragonFruit/DragonFruit/bin/Debug/netcoreapp3.1/DragonFruit.dll
+/Users/kevinboss/Repositories/consoles/DragonFruit/DragonFruit/bin/Debug/netcoreapp3.1/DragonFruit.pdb
+/Users/kevinboss/Repositories/consoles/DragonFruit/DragonFruit/bin/Debug/netcoreapp3.1/DragonFruit.xml
+/Users/kevinboss/Repositories/consoles/DragonFruit/DragonFruit/bin/Debug/netcoreapp3.1/System.CommandLine.dll
+/Users/kevinboss/Repositories/consoles/DragonFruit/DragonFruit/bin/Debug/netcoreapp3.1/System.CommandLine.DragonFruit.dll
+/Users/kevinboss/Repositories/consoles/DragonFruit/DragonFruit/bin/Debug/netcoreapp3.1/System.CommandLine.Rendering.dll
+/Users/kevinboss/Repositories/consoles/DragonFruit/DragonFruit/obj/Debug/netcoreapp3.1/DragonFruit.csproj.CopyComplete
+/Users/kevinboss/Repositories/consoles/DragonFruit/DragonFruit/obj/Debug/netcoreapp3.1/DragonFruit.dll
+/Users/kevinboss/Repositories/consoles/DragonFruit/DragonFruit/obj/Debug/netcoreapp3.1/DragonFruit.xml
+/Users/kevinboss/Repositories/consoles/DragonFruit/DragonFruit/obj/Debug/netcoreapp3.1/DragonFruit.pdb
